@@ -1,0 +1,5 @@
+package com.micro.movieratingsservice.models;
+
+public class Ratings {
+
+}

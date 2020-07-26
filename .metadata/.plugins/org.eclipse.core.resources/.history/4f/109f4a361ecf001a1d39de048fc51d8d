@@ -1,0 +1,5 @@
+package com.micro.movieinfoservice.resources;
+
+public class MovieInfoResource {
+
+}

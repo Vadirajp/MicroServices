@@ -1,0 +1,5 @@
+package com.micro.moviecatalogservice.models;
+
+public class UserRating {
+
+}
